@@ -3,10 +3,10 @@
 
 > First Prize of 2020 RMUT  
 > First Prize of 2021 RMUA (guidance)  
-> 爱赋离骚  
-> Blender发烧友  
-> 图形学爱好者  
-> 不切实际幻想者  
+> poet  
+> Blender fan  
+> Computer Graphics lover  
+> fantast  
 ✨✨✨✨✨✨✨
 
 <!--
