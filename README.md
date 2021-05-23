@@ -1,13 +1,12 @@
 
 ### 👋👋👋👋👋👋
-## LALALLALLALALALLALALLALALOLOLOLOL!!!!!!!!
-# ⚡⚡⚡⚡⚡⚡⚡
-> 2020年全国大学生机器人大赛Robomaster单项赛一等奖  
-> 2021年指导全国大学生机器人大赛Robomaster人工智能挑战赛一等奖  
+
+> First Prize of 2020 RMUT  
+> First Prize of 2021 RMUA (guidance)  
 > 爱赋离骚  
 > Blender发烧友  
 > 图形学爱好者  
-> 不切实际幻想者
+> 不切实际幻想者  
 ✨✨✨✨✨✨✨
 
 <!--
