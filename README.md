@@ -2,11 +2,11 @@
 ### 👋👋👋👋👋👋
 
 > First Prize of 2020 RMUT  
-> First Prize of 2021 RMUA (guidance)  
-> poet  
+> First Prize of 2021 RMUA (As Guidance)  
+> Poet  
 > Blender fan  
 > Computer Graphics lover  
-> fantast  
+> Fantast  
 ✨✨✨✨✨✨✨
 
 <!--
