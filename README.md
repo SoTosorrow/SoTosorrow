@@ -1,7 +1,7 @@
 
-Just Like Nothing
-Just Like Anything
-Just Like Me
+Just Like Nothing  
+Just Like Anything  
+Just Like Me  
 
 <!--
 **SoTosorrow/SoTosorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
